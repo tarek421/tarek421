@@ -1,15 +1,15 @@
 <a href="#"><img width="100%" src="https://sohelislamimran.netlify.app/static/media/Developer.e0ed7fbf.svg" height="400px"/></a>
 
-<h3 align="center">Hey there, I'm Sohel Islam Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+<h3 align="center">Hey there, I'm Tarek Mahmud <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
 
-  <a href="https://twitter.com/sohelislamimran"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/sohelislamimran?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/SohelIslamImran"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/SohelIslamImran?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://www.linkedin.com/in/tarek-mahmud-818b561a2/"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/sohelislamimran?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/tarek2021"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/SohelIslamImran?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   
    <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohelIslamImran&label=Profile%20views&color=0e75b6&style=flat" alt="SohelIslamImran" /> </p>
   
-  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/SohelIslamImran/) 
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/TAREK23051997) 
  
  
  
@@ -20,7 +20,7 @@
 * 🌱 I’m currently learning JavaScript🤔
 * 🥅 2021 Goals: JavaScript Basic & React⚡
 * 😄 I want to learn everything 🤣
-* 🌐 You can see some of my projects on [my portfolio](https://sohelislamimran.netlify.app)
+* 🌐 You can see some of my projects on [my portfolio](https://portfolio-tarek.netlify.app/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=SohelIslamImran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
