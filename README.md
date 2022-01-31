@@ -22,7 +22,7 @@
 * 😄 I want to learn everything 🤣
 * 🌐 You can see some of my projects on [my portfolio](https://portfolio-tarek.netlify.app/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=SohelIslamImran&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=tarekmahmud&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ## 👨‍💻 Languages and Tools:
 
